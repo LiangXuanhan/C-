@@ -9,7 +9,7 @@ int main( )
     cin >> ch;
     cout << "Hola! ";
     cout << "Thank you for the " << ch << " character." << endl;
-    // cin.get();
-    // cin.get();
+    cin.get();
+    cin.get();
     return 0;
 }

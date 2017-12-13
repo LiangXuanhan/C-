@@ -24,6 +24,6 @@ int main()
 
     cout << "Minimum int value = " << INT_MIN << endl;
     cout << "Bits per byte = " << CHAR_BIT << endl;
-	// cin.get();
+	 cin.get();
     return 0;
 }

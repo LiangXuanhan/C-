@@ -20,6 +20,6 @@ int main()
     cout.put('!');
 
     cout << endl << "Done" << endl;
-	// cin.get();
+    cin.get();
     return 0;
 }

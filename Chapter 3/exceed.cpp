@@ -24,6 +24,6 @@ int main()
     sue = sue - 1;
     cout << "Sam has " << sam << " dollars and Sue has " << sue;
     cout << " dollars deposited." << endl << "Lucky Sue!" << endl;
-	// cin.get();
+	 cin.get();
     return 0; 
 }

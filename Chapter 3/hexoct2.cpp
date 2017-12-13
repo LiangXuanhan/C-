@@ -14,6 +14,6 @@ int main()
     cout << "waist = " << waist << " (hexadecimal for 42)" << endl;
     cout << oct;      // manipulator for changing number base
     cout << "inseam = " << inseam << " (octal for 42)" << endl;
-    // cin.get();
+     cin.get();
     return 0; 
 }
