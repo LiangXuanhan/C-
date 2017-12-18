@@ -20,6 +20,6 @@ int main()
     cout << int(ch) << endl;                    // print as int
     cout << "Yes, the code is ";
     cout << static_cast<int>(ch) << endl;       // using static_cast
-   // cin.get();
+    cin.get();
     return 0; 
 }

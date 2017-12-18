@@ -10,6 +10,6 @@ int main()
     cout << "tree = " << tree << endl;
     cout << "guess = " << guess << endl;
     cout << "debt = " << debt << endl;
-    // cin.get();
+    cin.get();
     return 0;
 }

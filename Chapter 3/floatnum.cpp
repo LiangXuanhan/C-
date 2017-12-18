@@ -15,6 +15,6 @@ int main()
 
     cout << "mint = " << mint << " and a million mints = ";
     cout << million * mint << endl;
-    // cin.get();
+    cin.get();
     return 0;
 }

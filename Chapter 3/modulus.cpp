@@ -12,7 +12,7 @@ int main()
     int pounds = lbs % Lbs_per_stn;     // remainder in pounds
     cout << lbs << " pounds are " << stone
          << " stone, " << pounds << " pound(s).\n";
-    // cin.get();
-    // cin.get();
+    cin.get();
+    cin.get();
     return 0; 
 }
