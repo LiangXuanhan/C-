@@ -22,7 +22,7 @@ int main()
     cout << "The third letter in " << str2 << " is "
          << str2[2] << endl;    // use array notation
     // cin.get();
-	// cin.get();
+	 cin.get();
 
     return 0; 
 }

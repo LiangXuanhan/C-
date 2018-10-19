@@ -14,8 +14,8 @@ int main()
     name = getname();   // reuse freed memory
     cout << name << " at " << (int *) name << "\n";
     delete [] name;     // memory freed again
-    // cin.get();
-    // cin.get();
+    cin.get();
+    cin.get();
     return 0;
 }
 

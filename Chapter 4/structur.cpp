@@ -31,6 +31,6 @@ int main()
 // pal.name is the name member of the pal variable
     cout << "You can have both for $";
     cout << guest.price + pal.price << "!\n";
-    // cin.get();
+     cin.get();
     return 0; 
 }

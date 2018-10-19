@@ -19,6 +19,6 @@ int main()
 // use pointer to change value
     *p_updates = *p_updates + 1;
     cout << "Now updates = " << updates << endl;
-    // cin.get();
+    cin.get();
     return 0; 
 }

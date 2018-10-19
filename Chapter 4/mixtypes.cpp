@@ -23,6 +23,6 @@ int main()
 // or else use const antarctica_years_end ** ppb = arp; 
     std::cout << (*ppa)->year << std::endl;
     std::cout << (*(ppb+1))->year << std::endl;
-    // std::cin.get();
+    std::cin.get();
     return 0;
 }

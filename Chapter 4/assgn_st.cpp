@@ -22,6 +22,6 @@ int main()
     choice = bouquet;  // assign one structure to another
     cout << "choice: " << choice.name << " for $";
     cout << choice.price << endl;
-    // cin.get();
+     cin.get();
     return 0; 
 }

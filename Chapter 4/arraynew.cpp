@@ -12,7 +12,11 @@ int main()
     cout << "Now p3[0] is " << p3[0] << " and ";
     cout << "p3[1] is " << p3[1] << ".\n";
     p3 = p3 - 1;                  // point back to beginning
+	cout << p3[0] << endl;
+	cout << p3[1] << endl;
+	cout << p3[2] << endl;
+	cout << *(p3 + 2) << endl;
     delete [] p3;                 // free the memory
-    // cin.get();
+    cin.get();
     return 0; 
 }

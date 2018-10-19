@@ -22,6 +22,6 @@ int main()
     cout << ": size of *pt = " << sizeof(*pt) << endl;
     cout << "size of pd = " << sizeof pd;
     cout << ": size of *pd = " << sizeof(*pd) << endl;
-    // cin.get();
+    cin.get();
     return 0;
 }

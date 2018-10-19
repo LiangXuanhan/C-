@@ -20,7 +20,7 @@ int main()
     cout << "Volume: " << ps->volume << " cubic feet\n"; // method 1
     cout << "Price: $" << ps->price << endl;             // method 1
     delete ps;                        // free memory used by structure
-    // cin.get();
-    // cin.get();
+    cin.get();
+    cin.get();
     return 0; 
 }

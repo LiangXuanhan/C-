@@ -26,7 +26,7 @@ int main()
          << len1 << " characters.\n";
     cout << "The string " << charr1 << " contains "
          << len2 << " characters.\n";
-    // cin.get();
+     cin.get();
 
     return 0; 
 }

@@ -20,7 +20,7 @@ int main()
     name2[3] = '\0';                // set to null character
     cout << "Here are the first 3 characters of my name: ";
     cout << name2 << endl;
-    // cin.get();
-    // cin.get();
+    cin.get();
+    cin.get();
     return 0;
 }

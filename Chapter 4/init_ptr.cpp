@@ -10,6 +10,6 @@ int main()
          << "; Address of higgens = " << &higgens << endl;
     cout << "Value of *pt = " << *pt
          << "; Value of pt = " << pt << endl;
-    // cin.get();
+    cin.get();
     return 0; 
 }

@@ -29,7 +29,7 @@ int main()
     cout << animal << " at " << (int *) animal << endl;
     cout << ps << " at " << (int *) ps << endl;
     delete [] ps;
-    // cin.get();
-    // cin.get();
+    cin.get();
+    cin.get();
     return 0; 
 }

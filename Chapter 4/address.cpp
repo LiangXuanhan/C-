@@ -12,6 +12,6 @@ int main()
 // and unsigned (&cups)
     cout << "cups value = " << cups;
     cout << " and cups address = " << &cups << endl;
-    // cin.get();
+     cin.get();
     return 0; 
 }

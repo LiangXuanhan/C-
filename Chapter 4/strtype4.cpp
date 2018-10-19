@@ -5,24 +5,25 @@
 int main()
 {
     using namespace std;
-    char charr[20]; 
+    char charr3[20]; 
     string str;
 
     cout << "Length of string in charr before input: " 
-         << strlen(charr) << endl;
+         << strlen(charr3) << endl;
     cout << "Length of string in str before input: "
          << str.size() << endl;
+//	cout << charr3 <<endl;
     cout << "Enter a line of text:\n";
-    cin.getline(charr, 20);     // indicate maximum length
-    cout << "You entered: " << charr << endl;
+    cin.getline(charr3, 20);     // indicate maximum length
+    cout << "You entered: " << charr3 << endl;
     cout << "Enter another line of text:\n";
     getline(cin, str);          // cin now an argument; no length specifier
     cout << "You entered: " << str << endl;
     cout << "Length of string in charr after input: " 
-         << strlen(charr) << endl;
+         << strlen(charr3) << endl;
     cout << "Length of string in str after input: "
          << str.size() << endl;
-    // cin.get();
+     cin.get();
 
     return 0; 
 }

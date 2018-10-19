@@ -25,6 +25,6 @@ int main()
     cout << " bytes.\n";
     cout << "Size of one element = " << sizeof yams[0];
     cout << " bytes.\n";
-    // cin.get();
+    cin.get();
     return 0; 
 }

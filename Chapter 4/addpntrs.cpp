@@ -29,6 +29,6 @@ int main()
 
     cout << sizeof(wages) << " = size of wages array\n";
     cout << sizeof(pw) << " = size of pw pointer\n";
-    // cin.get();
+    cin.get();
     return 0; 
 }

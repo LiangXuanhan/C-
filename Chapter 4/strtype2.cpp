@@ -1,4 +1,4 @@
-// strtype2.cpp –- assigning, adding, and appending
+// strtype2.cpp ? assigning, adding, and appending
 #include <iostream>
 #include <string>               // make string class available
 int main()
@@ -23,6 +23,6 @@ int main()
     s2 += " for a day";
     cout <<"s2 += \" for a day\" yields s2 = " << s2 << endl;
 
-    //cin.get();
+    cin.get();
     return 0; 
 }
