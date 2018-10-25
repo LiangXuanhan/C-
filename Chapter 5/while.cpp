@@ -15,7 +15,7 @@ int main()
         cout << name[i] << ": " << int(name[i]) << endl;
         i++;                    // don't forget this step
     }
-    // cin.get();
-    // cin.get();
+    cin.get();
+    cin.get();
     return 0; 
 }

@@ -9,6 +9,6 @@ int main()
     cout << "a   = " << a << ":   b = " << b << "\n";
     cout << "a++ = " << a++ << ": ++b = " << ++b << "\n";
     cout << "a   = " << a << ":   b = " << b << "\n";
-    // std::cin.get();
+    std::cin.get();
 	return 0;
 }

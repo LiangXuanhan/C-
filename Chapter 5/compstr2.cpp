@@ -12,6 +12,6 @@ int main()
         word[0] = ch;
     }
     cout << "After loop ends, word is " << word << endl;
-    // cin.get();
+    cin.get();
     return 0; 
 }

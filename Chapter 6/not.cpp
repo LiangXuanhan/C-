@@ -16,8 +16,8 @@ int main()
     }
     int val = int (num);    // type cast
     cout << "You've entered the integer " << val << "\nBye\n";
-    // cin.get();
-    // cin.get();
+    cin.get();
+    cin.get();
     return 0;
 }
 

@@ -43,7 +43,7 @@ int main()
     outFile << "Now asking $" << d_price << endl;
     
     outFile.close();                // done with file
-    // cin.get();
-    // cin.get();
+    cin.get();
+    cin.get();
     return 0;
 }

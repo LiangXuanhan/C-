@@ -18,6 +18,7 @@ int main()
 // get rid of rest of line
     // while (cin.get() != '\n')
     //    ;
-    //cin.get();
+    cin.get();
+	cin.get();
     return 0; 
 }

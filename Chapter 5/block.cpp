@@ -18,7 +18,7 @@ int main()
     cout << "They sum to " << sum << endl;
     cout << "and average to " << sum / 5 << ".\n";
     cout << "The Amazing Accounto bids you adieu!\n";
-    // cin.get();
-    // cin.get();
+    cin.get();
+    cin.get();
     return 0; 
 }

@@ -18,7 +18,7 @@ int main()
         else
             cout << Fave << " is right!\n";
     } while (n != Fave);
-    // cin.get();
-    // cin.get();
+    cin.get();
+    cin.get();
     return 0;
 }

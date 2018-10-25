@@ -11,7 +11,7 @@ int main()
     cout << "Counting by " << by << "s:\n";
     for (int i = 0; i < 100; i = i + by)
         cout << i << endl;
-    // cin.get();
-    // cin.get();
+    cin.get();
+    cin.get();
     return 0;
 }

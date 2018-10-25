@@ -9,6 +9,6 @@ int main()
         factorials[i] = i * factorials[i-1];
     for (int i = 0; i < ArSize; i++)
         std::cout << i << "! = " << factorials[i] << std::endl;
-	// std::cin.get();
+	std::cin.get();
     return 0;
 }

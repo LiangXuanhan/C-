@@ -15,8 +15,9 @@ int main()
     }
     cout << endl << count << " characters read\n";
 // get rid of rest of line
-     // while (cin.get() != '\n')
-        // ;
-//cin.get();
+     while (cin.get() != '\n')
+         ;
+cin.get();
+cin.get();
     return 0; 
 }

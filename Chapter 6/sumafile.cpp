@@ -45,6 +45,6 @@ int main()
         cout << "Average: " << sum / count << endl;
     }
     inFile.close();         // finished with the file
-    // cin.get();
+    cin.get();
     return 0;
 }

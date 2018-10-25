@@ -14,7 +14,13 @@ int main()
 // to actually running it.
     cout << "Doing it dangerously wrong:\n";
     for (i = 0; quizscores[i] = 20; i++)
+	{
         cout << "quiz " << i << " is a 20\n";
-	// cin.get();
+	if (i > 20)
+	{
+		break;
+	}
+	}
+	cin.get();
     return 0;
 }

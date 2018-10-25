@@ -16,7 +16,7 @@ int main()
         cout << "That wasn't a y or n! Apparently you "
                 "can't follow\ninstructions, so "
                 "I'll trash your disk anyway.\a\a\a\n";
-	// cin.get();
-	// cin.get();
+	cin.get();
+	cin.get();
     return 0;
 }

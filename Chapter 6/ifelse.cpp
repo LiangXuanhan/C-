@@ -16,7 +16,7 @@ int main()
     }
 // try ch + 1 instead of ++ch for interesting effect
     std::cout << "\nPlease excuse the slight confusion.\n";
-	// std::cin.get();
-	// std::cin.get();
+	std::cin.get();
+	std::cin.get();
     return 0;
 }

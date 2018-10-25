@@ -33,7 +33,7 @@ int main()
          << digits << " digits, "
          << punct << " punctuations, "
          << others << " others.\n";
-    // cin.get();
-    // cin.get();
+    cin.get();
+    cin.get();
     return 0; 
 }

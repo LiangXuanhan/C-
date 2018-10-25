@@ -18,7 +18,7 @@ int main()
         word[j] = temp;
     }                       // end block
     cout << word << "\nDone\n";
-    // cin.get();
-    // cin.get();
+     cin.get();
+     cin.get();
     return 0; 
 }

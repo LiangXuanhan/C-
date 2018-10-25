@@ -8,6 +8,6 @@ int main()
     for (i = 0; i < 5; i++)
         cout << "C++ knows loops.\n";
     cout << "C++ knows when to stop.\n";
-    // cin.get();
+    cin.get();
     return 0;
 }

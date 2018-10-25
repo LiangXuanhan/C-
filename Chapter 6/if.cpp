@@ -17,7 +17,7 @@ int main()
     }
     cout << spaces << " spaces, " << total;
     cout << " characters total in sentence\n";
-    // cin.get();
-    // cin.get();
+    cin.get();
+    cin.get();
     return 0;
 }

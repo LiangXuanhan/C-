@@ -25,7 +25,7 @@ int main()
         index = 3;
 
     cout << "You qualify for the " << qualify[index]; 
-    // cin.get();
-    // cin.get();
+    cin.get();
+    cin.get();
     return 0;
 }

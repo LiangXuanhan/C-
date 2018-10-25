@@ -26,7 +26,7 @@ int main()
 // report results
     cout << total / Max << " = average score "
             << Max << " rounds\n";
-    // cin.get();
-    // cin.get();
+    cin.get();
+    cin.get();
     return 0; 
 }

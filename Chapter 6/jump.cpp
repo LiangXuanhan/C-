@@ -22,7 +22,7 @@ int main()
     }
     cout << "\n" << spaces << " spaces\n";
     cout << "Done.\n";
-    // cin.get();
-    // cin.get();
+    cin.get();
+    cin.get();
     return 0;
 }

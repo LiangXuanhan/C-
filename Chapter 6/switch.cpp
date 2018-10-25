@@ -27,8 +27,8 @@ int main()
         cin >> choice;
     }
     cout << "Bye!\n";
-    // cin.get();
-    // cin.get();
+    cin.get();
+    cin.get();
     return 0;
 }
 

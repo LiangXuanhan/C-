@@ -13,7 +13,7 @@ int main()
     while (clock() - start < delay )        // wait until time elapses
         ;                                   // note the semicolon
     cout << "done \a\n";
-    // cin.get();
-    // cin.get();
+    cin.get();
+    cin.get();
     return 0; 
 }

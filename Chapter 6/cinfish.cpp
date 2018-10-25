@@ -27,12 +27,12 @@ int main()
             << i << " fish\n";
     cout << "Done.\n";
 // code to keep VC execution window open if q is entered
-//	if (!cin)  // input terminated by non-numeric response
-//	{
-//	    cin.clear();  // reset input
-//	    cin.get();    // read q
-//	}
-//	cin.get();    // read end of line after last input
-//	cin.get();    // wait for user to press <Enter>
+if (!cin)  // input terminated by non-numeric response
+{
+	    cin.clear();  // reset input
+	    cin.get();    // read q
+}
+cin.get();    // read end of line after last input
+cin.get();    // wait for user to press <Enter>
     return 0; 
 }

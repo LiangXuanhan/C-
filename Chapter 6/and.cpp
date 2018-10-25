@@ -39,7 +39,7 @@ int main()
         cout << " of your neighbors have greater awareness of\n"
              << "the New Age than you do.\n";
     }
-    // cin.get();
-    // cin.get();
+    cin.get();
+    cin.get();
     return 0; 
 }

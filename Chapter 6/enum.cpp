@@ -25,7 +25,7 @@ int main()
         cin >> code;
     }
     cout << "Bye\n";
-    // cin.get();
-    // cin.get();
+    cin.get();
+    cin.get();
     return 0; 
 }

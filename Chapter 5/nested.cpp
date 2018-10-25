@@ -30,6 +30,6 @@ int main()
             cout << maxtemps[year][city] << "\t";
         cout << endl;
     }
-	// cin.get();
+	cin.get();
     return 0;
 }
