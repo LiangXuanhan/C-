@@ -20,8 +20,8 @@ int main()
     }
     cout << "The value of times is " << times << ".\n";
     cout << "Bye\n";
-    // cin.get();
-    // cin.get();
+    cin.get();
+    cin.get();
     return 0;
 }
 

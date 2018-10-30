@@ -14,7 +14,7 @@ int main()
     unsigned int us = c_in_str(wail, 'u');
     cout << ms << " m characters in " << mmm << endl;
     cout << us << " u characters in " << wail << endl;
-    // cin.get();
+    cin.get();
     return 0;
 }
 

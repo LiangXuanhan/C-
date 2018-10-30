@@ -18,8 +18,8 @@ int main()
     estimate(code, betsy);
     cout << "Here's Pam's estimate:\n";
     estimate(code, pam);
-    // cin.get();
-    // cin.get();
+    cin.get();
+    cin.get();
     return 0;
 }
 

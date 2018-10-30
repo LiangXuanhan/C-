@@ -29,8 +29,8 @@ int main()
         show_array(properties, size);
     }
     cout << "Done.\n";
-    // cin.get();
-    // cin.get();
+    cin.get();
+    cin.get();
     return 0;
 }
 

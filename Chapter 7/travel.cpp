@@ -23,7 +23,7 @@ int main()
     travel_time day3= {4, 32};
     cout << "Three-day total: ";
     show_time(sum(trip, day3));
-    // cin.get();
+    cin.get();
 
     return 0;
 }

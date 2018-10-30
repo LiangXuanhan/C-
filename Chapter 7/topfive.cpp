@@ -16,7 +16,7 @@ int main()
 
     cout << "Your list:\n";
     display(list, SIZE);
-    // cin.get();
+    cin.get();
 
 	return 0; 
 }

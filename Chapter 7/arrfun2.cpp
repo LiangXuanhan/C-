@@ -19,7 +19,7 @@ int main()
     std::cout << "First three eaters ate " << sum << " cookies.\n";
     sum = sum_arr(cookies + 4, 4);    // another lie
     std::cout << "Last four eaters ate " << sum << " cookies.\n";
-    // std::cin.get();
+    std::cin.get();
 	return 0;
 }
 

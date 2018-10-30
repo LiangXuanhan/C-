@@ -17,8 +17,8 @@ int main()
     ps = buildstr('+', 20);         // reuse pointer
     cout << ps << "-DONE-" << ps << endl;
     delete [] ps;                   // free memory
-    // cin.get();
-    // cin.get();
+    cin.get();
+    cin.get();
     return 0;
 }
 

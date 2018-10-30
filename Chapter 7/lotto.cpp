@@ -16,8 +16,8 @@ int main()
         cout << "Next two numbers (q to quit): ";
     }
     cout << "bye\n";
-    // cin.get();
-    // cin.get();
+    cin.get();
+    cin.get();
     return 0;
 }
 

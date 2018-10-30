@@ -52,7 +52,7 @@ int main()
     cout << pdb << ": " << *pdb << endl;
     // alternative notation
     cout << (*(*pd)[2])(av,3) << ": " << *(*(*pd)[2])(av,3) << endl;
-    // cin.get();
+    cin.get();
     return 0;
 }
 

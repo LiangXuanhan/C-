@@ -13,8 +13,8 @@ int main()
     std::array<double, 4> expenses;
     fill(&expenses);
     show(expenses);
-    // std::cin.get();
-    // std::cin.get();
+    std::cin.get();
+    std::cin.get();
     return 0;
 }
 
