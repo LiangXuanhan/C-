@@ -11,7 +11,7 @@ int main ()
     cout << " = cube of " << x << endl;
     cout << refcube(x);
     cout << " = cube of " << x << endl;
-    // cin.get();
+    cin.get();
     return 0;
 }
 

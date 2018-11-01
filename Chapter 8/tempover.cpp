@@ -35,7 +35,7 @@ int main()
     cout << "Listing Mr. E's debts:\n";
 // pd is an array of pointers to double
     ShowArray(pd, 3);      // uses template B (more specialized)
-    // cin.get();
+    cin.get();
     return 0;
 }
 

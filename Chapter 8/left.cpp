@@ -14,8 +14,8 @@ int main()
     ps = left(sample);
     cout << ps << endl;
     delete [] ps;       // free new string
-    // cin.get();
-    // cin.get();
+    cin.get();
+    cin.get();
     return 0;
 }
 

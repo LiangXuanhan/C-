@@ -26,7 +26,7 @@ int main()
     swapv(wallet1, wallet2);   // pass values of variables
     cout << "wallet1 = $" << wallet1;
     cout << " wallet2 = $" << wallet2 << endl;
-    // cin.get();
+    cin.get();
     return 0; 
 }
 

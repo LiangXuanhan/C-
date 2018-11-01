@@ -29,8 +29,8 @@ int main()
     result = version3(input, "@@@");
     cout << "Your string enhanced: " << result << endl;
     cout << "Your original string: " << input << endl;
-	// cin.get();
-	// cin.get();
+	cin.get();
+	cin.get();
     return 0;
 }
 

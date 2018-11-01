@@ -41,7 +41,7 @@ int main()
     accumulate(dup,five) = four;
     std::cout << "Displaying dup after ill-advised assignment:\n";
     display(dup);
-    // std::cin.get();
+    std::cin.get();
     return 0;
 }
 

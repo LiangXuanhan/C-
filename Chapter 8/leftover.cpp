@@ -18,7 +18,7 @@ int main()
         cout << temp << endl;
         delete [] temp; // point to temporary storage
     }
-    // cin.get();
+    cin.get();
     return 0;
 
 }

@@ -15,6 +15,6 @@ int main()
     cout << "c = " << c;
     cout << ", c squared = " << square(c++) << "\n";
     cout << "Now c = " << c << "\n";
-    // cin.get();
+    cin.get();
     return 0;  
 }

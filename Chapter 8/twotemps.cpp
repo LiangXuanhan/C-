@@ -26,7 +26,7 @@ int main()
     cout << "Swapped arrays:\n";
     Show(d1);
     Show(d2);
-    // cin.get();
+    cin.get();
     return 0;
 }
 

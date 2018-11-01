@@ -16,6 +16,6 @@ int main()
 // addresses to type unsigned
     cout << "rats address = " << &rats;
     cout << ", rodents address = " << &rodents << endl;
-    // cin.get();
+    cin.get();
     return 0; 
 }

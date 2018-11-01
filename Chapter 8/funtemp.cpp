@@ -20,7 +20,7 @@ int main()
     cout << "Using compiler-generated double swapper:\n";
     Swap(x,y);  // generates void Swap(double &, double &)
     cout << "Now x, y = " << x << ", " << y << ".\n";
-    // cin.get();
+    cin.get();
     return 0;
 }
 

@@ -20,6 +20,6 @@ int main()
 
     cout << "bunnies address = " << &bunnies;
     cout << ", rodents address = " << &rodents << endl;
-    // cin.get();
+    cin.get();
     return 0; 
 }
