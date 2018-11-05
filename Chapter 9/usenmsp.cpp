@@ -12,8 +12,8 @@ int main(void)
     showDebt(golf);
     other();
     another(); 
-	// std::cin.get();
-	// std::cin.get();
+	std::cin.get();
+	std::cin.get();
     return 0;
 }
 

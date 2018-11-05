@@ -16,11 +16,11 @@ int main()
     }
     cout << "Bye!\n";
 // keep window open in MSVC++
-/*
+
     cin.clear();
     while (cin.get() != '\n')
         continue;
     cin.get();
-*/
+
     return 0; 
 }

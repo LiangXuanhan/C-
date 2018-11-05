@@ -13,6 +13,6 @@ int main()
     cout << &tom << " = &tom, " << &dick << " = &dick, ";
     cout << &harry << " = &harry\n";
     remote_access();
-    // cin.get();
+    cin.get();
     return 0; 
 }

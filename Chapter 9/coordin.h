@@ -2,7 +2,7 @@
 // structure templates
 #ifndef COORDIN_H_
 #define COORDIN_H_
-
+#define test 1
 struct polar
 {
     double distance;    // distance from origin

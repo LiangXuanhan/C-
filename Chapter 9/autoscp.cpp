@@ -16,7 +16,7 @@ int main()
     cout << &texas << endl;
     cout << "In main(), year = " << year << ", &year = ";
     cout << &year << endl;
-	// cin.get();
+	cin.get();
     return 0;
 }
 

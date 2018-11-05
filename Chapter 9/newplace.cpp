@@ -51,6 +51,6 @@ int main()
     }
     delete [] pd1;
     delete [] pd3;
-    // cin.get();
+    cin.get();
     return 0;
 }
