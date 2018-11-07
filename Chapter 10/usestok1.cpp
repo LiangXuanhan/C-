@@ -25,6 +25,6 @@ int main()
     stock1.show();
     cout << "Done\n";
   }
-	// std::cin.get();
+	std::cin.get();
     return 0; 
 }

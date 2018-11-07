@@ -1,4 +1,4 @@
-// stock20.cpp -- augmented version
+// stock20.cpp -- augmented version!
 #include <iostream>
 #include "stock20.h"
 using namespace std;

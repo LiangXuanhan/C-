@@ -1,4 +1,4 @@
-// stack.h -- class definition for the stack ADT
+// stack.h -- class definition for the stack ADT!
 #ifndef STACK_H_
 #define STACK_H_
 

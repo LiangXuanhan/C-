@@ -25,6 +25,6 @@ int main()
 // now top points to the most valuable holding
     std::cout << "\nMost valuable holding:\n";
 	top->show();}
-    // std::cin.get();
+    std::cin.get();
     return 0; 
 }

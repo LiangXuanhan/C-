@@ -1,4 +1,4 @@
-// stack.cpp -- Stack member functions
+// stack.cpp -- Stack member functions!
 #include "stack.h"
 Stack::Stack()    // create an empty stack
 {

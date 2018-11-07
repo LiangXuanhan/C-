@@ -1,4 +1,4 @@
-// stock10.h – Stock class declaration with constructors, destructor added
+// stock10.h ?Stock class declaration with constructors, destructor added
 #ifndef STOCK1_H_
 #define STOCK1_H_
 #include <string>

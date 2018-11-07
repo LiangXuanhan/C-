@@ -1,5 +1,6 @@
 // stock00.h -- Stock class interface
 // version 00
+#pragma once
 #ifndef STOCK00_H_
 #define STOCK00_H_
 
