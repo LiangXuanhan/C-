@@ -39,6 +39,6 @@ int main()
     cout << "morefixing.operator+(total) = ";
     total.Show();
     cout << endl;
-    // std::cin.get();
+    std::cin.get();
     return 0;
 }

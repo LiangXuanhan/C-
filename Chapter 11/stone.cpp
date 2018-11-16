@@ -26,7 +26,7 @@ int main()
     cout << "The wrestler weighed even more.\n";
     display(422, 2);
     cout << "No stone left unearned\n";
-    // std::cin.get();
+    std::cin.get();
     return 0;
 }
 

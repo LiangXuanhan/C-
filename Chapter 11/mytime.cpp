@@ -1,4 +1,4 @@
-// mytime0.cpp  -- implementing Time methods
+// mytime0.cpp  -- implementing Time methods!
 #include <iostream>
 #include "mytime0.h"
 

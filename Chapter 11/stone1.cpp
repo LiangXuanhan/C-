@@ -12,6 +12,6 @@ int main()
     cout << "Poppins: " << p_wt << " pounds.\n";
     cout << "Convert to int => ";
     cout << "Poppins: " << int (poppins) << " pounds.\n";
-	// std::cin.get();
+	std::cin.get();
     return 0; 
 }

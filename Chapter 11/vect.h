@@ -1,4 +1,5 @@
-// vect.h -- Vector class with <<, mode state
+// vect.h -- Vector class with <<, mode state!
+#pragma once
 #ifndef VECTOR_H_
 #define VECTOR_H_
 #include <iostream>

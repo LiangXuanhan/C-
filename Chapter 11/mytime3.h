@@ -1,4 +1,4 @@
-// mytime3.h -- Time class with friends
+// mytime3.h -- Time class with friends!
 #ifndef MYTIME3_H_
 #define MYTIME3_H_
 #include <iostream>

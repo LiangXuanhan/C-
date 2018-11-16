@@ -1,4 +1,4 @@
-// mytime3.cpp  -- implementing Time methods
+// mytime3.cpp  -- implementing Time methods!
 #include "mytime3.h"
 
 Time::Time()

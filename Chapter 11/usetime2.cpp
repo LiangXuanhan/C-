@@ -1,4 +1,4 @@
-// usetime2.cpp -- using the third draft of the Time class
+// usetime2.cpp -- using the third draft of the Time class!
 // compile usetime2.cpp and mytime2.cpp together
 #include <iostream>
 #include "mytime2.h"
@@ -35,6 +35,6 @@ int main()
     cout << "adjusted work time = ";
     adjusted.Show();
     cout << endl;
-    // std::cin.get();    
+    std::cin.get();    
     return 0;
 }

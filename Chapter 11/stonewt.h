@@ -1,4 +1,4 @@
-// stonewt.h -- definition for the Stonewt class
+// stonewt.h -- definition for the Stonewt class!
 #ifndef STONEWT_H_
 #define STONEWT_H_
 class Stonewt

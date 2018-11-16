@@ -1,4 +1,4 @@
-// vect.cpp -- methods for the Vector class
+// vect.cpp -- methods for the Vector class!
 #include <cmath>
 #include "vect.h"   // includes <iostream>
 using std::sqrt;

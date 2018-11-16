@@ -1,4 +1,5 @@
-// mytime0.h -- Time class before operator overloading
+// mytime0.h -- Time class before operator overloading!
+#pragma once
 #ifndef MYTIME0_H_
 #define MYTIME0_H_
 

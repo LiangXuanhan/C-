@@ -1,4 +1,4 @@
-// usetime0.cpp -- using the first draft of the Time class
+// usetime0.cpp -- using the first draft of the Time class!
 // compile usetime0.cpp and mytime0.cpp together
 #include <iostream>
 #include "mytime0.h"
@@ -28,6 +28,6 @@ int main()
     cout << "coding.Sum(fixing) = ";
   	total.Show();
     cout << endl;
-    // std::cin.get();
+    std::cin.get();
     return 0;
 }

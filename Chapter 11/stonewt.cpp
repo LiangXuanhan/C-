@@ -1,4 +1,4 @@
-// stonewt.cpp -- Stonewt methods
+// stonewt.cpp -- Stonewt methods!
 #include <iostream>
 using std::cout;
 #include "stonewt.h"
