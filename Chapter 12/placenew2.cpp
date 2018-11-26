@@ -51,6 +51,6 @@ int main()
     pc3->~JustTesting();  // destroy object pointed to by pc3
     pc1->~JustTesting();  // destroy object pointed to by pc1
     delete [] buffer;     // free buffer
-    // std::cin.get();
+    std::cin.get();
     return 0;
 }

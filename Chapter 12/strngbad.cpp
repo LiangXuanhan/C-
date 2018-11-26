@@ -1,4 +1,4 @@
-// strngbad.cpp -- StringBad class methods
+// strngbad.cpp -- StringBad class methods!
 #include <cstring>                    // string.h for some
 #include "strngbad.h"
 using std::cout;

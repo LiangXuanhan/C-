@@ -1,5 +1,5 @@
 // string1.h -- fixed and augmented string class definition
-
+#pragma once
 #ifndef STRING1_H_
 #define STRING1_H_
 #include <iostream>

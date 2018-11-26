@@ -46,6 +46,6 @@ int main()
     delete pc4;                          // free Heap2
     delete [] buffer;                    // free buffer
     cout << "Done\n";
-    // std::cin.get();
+    std::cin.get();
     return 0;
 }

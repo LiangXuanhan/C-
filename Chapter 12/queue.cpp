@@ -1,4 +1,4 @@
-// queue.cpp -- Queue and Customer methods
+// queue.cpp -- Queue and Customer methods!
 #include "queue.h"
 #include <cstdlib>         // (or stdlib.h) for rand()
 

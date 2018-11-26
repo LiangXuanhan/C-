@@ -1,4 +1,4 @@
-// string1.cpp -- String class methods
+// string1.cpp -- String class methods!
 #include <cstring>                 // string.h for some
 #include "string1.h"               // includes <iostream>
 using std::cin;
@@ -25,7 +25,7 @@ String::String(const char * s)     // construct String from C string
 
 String::String()                   // default constructor
 {
-    len = 4;
+    len = 0;
     str = new char[1];
     str[0] = '\0';                 // default string
     num_strings++;

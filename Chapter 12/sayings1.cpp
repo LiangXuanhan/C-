@@ -54,9 +54,11 @@ int main()
     else
         cout << "No input! Bye.\n";
 // keep window open 
-/*    if (!cin)
+    if (!cin)
         cin.clear();
     while (cin.get() != '\n')
-        continue; */ 
+        continue;
+	cin.ignore(1000);
+	cin.get();
    return 0; 
 }

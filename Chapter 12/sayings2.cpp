@@ -61,11 +61,11 @@ int main()
         cout << "Not much to say, eh?\n";
     cout << "Bye.\n";
 // keep window open
-/*    if (!cin)
+    if (!cin)
         cin.clear();
     while (cin.get() != '\n')
         continue;
     cin.get();
-*/
+
     return 0; 
 }

@@ -32,7 +32,7 @@ int main()
         cout << "Exiting the block.\n";
     }
     cout << "End of main()\n";
-    // std::cin.get();
+    std::cin.get();
     return 0;
 }
 

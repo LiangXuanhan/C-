@@ -1,4 +1,4 @@
-// bank.cpp -- using the Queue interface
+// bank.cpp -- using the Queue interface!
 // compile with queue.cpp
 #include <iostream>
 #include <cstdlib> // for rand() and srand()
@@ -86,8 +86,8 @@ int main()
     else
         cout << "No customers!\n";
     cout << "Done!\n";
-    // cin.get();
-    // cin.get();
+    cin.get();
+    cin.get();
     return 0;
 }
 

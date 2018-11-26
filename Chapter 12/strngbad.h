@@ -1,4 +1,5 @@
 // strngbad.h -- flawed string class definition
+#pragma once
 #include <iostream>
 #ifndef STRNGBAD_H_
 #define STRNGBAD_H_
