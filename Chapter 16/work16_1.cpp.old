@@ -1,0 +1,62 @@
+#include<iostream>
+#include<string>
+//#include<cstdlib>
+#include <algorithm>
+#include<iterator>
+#include<cctype>
+using namespace std;
+bool echo(string & s);
+int main(){
+	cout << "Input a word: ";
+	string w ;
+	getline(cin, w);
+for (string::iterator i = w.begin(); i != w.end();)
+{bool temp;
+temp = isalpha(*i);
+if (temp)
+{
+	*i = tolower(*i);
+	i++;
+}
+else
+	i = w.erase(i);
+}
+cout<< "Final Input : " << w;
+	while(w!="quit")
+	{
+		cout<< "\n";
+		if(echo(w))
+			cout << "True!" << endl;
+		else
+			cout<< "False..." << endl;
+		cout << "Input a word: ";
+		getline(cin, w);
+		for (string::iterator i = w.begin(); i != w.end();)
+		{bool temp;
+		temp = isalpha(*i);
+		if (temp)
+		{
+			*i = tolower(*i);
+			i++;
+		}
+		else
+			i = w.erase(i);
+		}
+		cout<< "Final Input : " << w;
+
+	}
+
+
+	return 0;
+}
+
+bool echo(string & s)
+{
+	string r = s;
+//	copy(s.rbegin(), s.rend(), r.begin());
+	reverse(s.begin(), s.end());
+	if (r==s)
+			return true;
+	else
+		return false;
+	}
